@@ -1,7 +1,14 @@
+
+@import url('https://fonts.googleapis.com/css?family=Luckiest+Guy');
+
+* {
+  font-family: 'Luckiest Guy', cursive;
+}
+
 html {
   font-size: 10px;
-  background: url('background.jpg') bottom center;
-  background-size: cover;
+  background: rgb(255,198,0);
+  background: radial-gradient(circle, rgba(255,198,0,1) 0%, rgba(0,0,0,1) 100%);
 }
 
 body,html {
